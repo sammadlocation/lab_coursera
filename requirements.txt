@@ -15,3 +15,4 @@ undetected_chromedriver
 assemblyai
 brotli
 edge-tts
+nika7
